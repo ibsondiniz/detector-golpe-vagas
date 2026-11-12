@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Auxiliar Administrativo",
+    "company": "Empresa confidencial",
+    "description": "CONTRATAÇÃO URGENTE. Salário: R$ 2.300,00 Tipo de contratação: CLT Jornada: 8h às 17h Modalidade: 100% Home Office. Rotinas de arquivo e planilhas."
+  },
+  {
+    "id": "2",
+    "title": "Auxiliar Financeiro",
+    "company": "Empresa confidencial",
+    "description": "CONTRATAÇÃO URGENTE. Salário: R$ 2.300,00 Tipo de contratação: CLT Jornada: 8h às 17h Modalidade: 100% Home Office. Contas a pagar e receber."
+  },
+  {
+    "id": "3",
+    "title": "Digitador home office",
+    "company": "Exemplo Digital",
+    "description": "Aprovação imediata, sem entrevista. Pague a taxa de cadastro de R$ 39,90 e envie seu CPF e dados bancários pelo e-mail vagas.exemplo@gmail.com."
+  },
+  {
+    "id": "4",
+    "title": "Desenvolvedor Python Júnior",
+    "company": "Exemplo Tecnologia",
+    "description": "Vaga 100% remota, CLT. Você vai manter APIs em FastAPI, escrever testes com pytest e automatizar rotinas internas. Requisitos: Python, Git, SQL básico e vontade de aprender. Diferenciais: Docker e experiência com APIs REST. Benefícios: vale-refeição, plano de saúde, auxílio home office e horário flexível. Etapas: inscrição pela página de carreiras, teste técnico on-line, entrevista com o time e proposta."
+  }
+]

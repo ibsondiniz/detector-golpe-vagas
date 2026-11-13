@@ -14,6 +14,8 @@ Aponta sinais comuns de golpe em anúncios de emprego:
 
 As regras vieram de uma ferramenta de busca de vagas que uso no dia a dia com amigos. Cada uma nasceu de um anúncio real que era golpe ou escondia a empresa. Os exemplos e testes deste repositório usam dados inventados.
 
+**Teste no navegador:** https://detector-golpe-vagas.streamlit.app
+
 ![Página do detector analisando um anúncio de golpe](docs/print.jpg)
 
 ## Sinais
